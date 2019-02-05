@@ -13,6 +13,8 @@ def BDayRe(month, day):
 	for p in i:
 		print(p)
 
+print('\n')
 month = input("Enter the Month Number : ")
 day = input("Enter the Date : ")
+print('\n')
 BDayRe(month, day)
